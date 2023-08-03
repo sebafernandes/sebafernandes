@@ -4,11 +4,11 @@
 ## Stuffs I've made
  # Puna
 
-  - [Coin Custody] (coincustody.io)
-  - [Brief] (brief.puna.studio)
-  - [Puna Studio] (puna.studio)
-  - [Social] (social.puna.studio)
-  - [Ospsip] (ospsip.org.ar)
+  - [Coin Custody](coincustody.io)
+  - [Brief] brief.puna.studio)
+  - [Puna Studio](puna.studio)
+  - [Social](social.puna.studio)
+  - [Ospsip](ospsip.org.ar)
   - 
 <!--
 **sebafernandes/sebafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
