@@ -2,7 +2,7 @@
 ### Developer at [Puna](puna.studio)
 
 ## Stuffs I've made
-  [Puna](puna.studio)
+  ### [Puna](puna.studio)
 
   - [Coin Custody](coincustody.io)
   - [Brief](brief.puna.studio)
