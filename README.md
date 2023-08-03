@@ -1,8 +1,8 @@
 # Who I am
-###Developer at [Puna](puna.studio)
+### Developer at [Puna](puna.studio)
 
-##Stuffs I've made
- #Puna
+## Stuffs I've made
+ # Puna
 
   - [Coin Custody] (coincustody.io)
   - [Brief] (brief.puna.studio)
