@@ -1,5 +1,5 @@
 # Who I am
-### Developer at [Puna](puna.studio)
+### Developer at [Puna](https://puna.studio)
 
 ## Stuffs I've made
   ### [Puna](https://puna.studio)
