@@ -2,13 +2,13 @@
 ### Developer at [Puna](puna.studio)
 
 ## Stuffs I've made
-  ### [Puna](puna.studio)
+  ### [Puna](https://puna.studio)
 
-  - [Coin Custody](coincustody.io)
-  - [Brief](brief.puna.studio)
-  - [Puna Studio](puna.studio)
-  - [Social](social.puna.studio)
-  - [Ospsip](ospsip.org.ar)
+  - [Coin Custody](https://coincustody.io)
+  - [Brief](https://brief.puna.studio)
+  - [Puna Studio](https://puna.studio)
+  - [Social](https://social.puna.studio)
+  - [Ospsip](https://ospsip.org.ar)
     
 <!--
 **sebafernandes/sebafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
