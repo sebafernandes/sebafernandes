@@ -8,8 +8,8 @@
   - [Brief](https://brief.puna.studio)
   - [Puna Studio](https://puna.studio)
   - [Social](https://social.puna.studio)
-  - [Ospsip](https://ospsip.org.ar)
-    
+  - [KairosJet](https://www.kairosjet.com/)
+
 <!--
 **sebafernandes/sebafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
