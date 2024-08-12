@@ -9,7 +9,7 @@
   - [Puna Studio](https://puna.studio)
   - [Social](https://social.puna.studio)
   - [KairosJet](https://www.kairosjet.com/)
-
+ -  [Everdian](https://www.everdian.com/)
 <!--
 **sebafernandes/sebafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
