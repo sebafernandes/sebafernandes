@@ -11,7 +11,7 @@
   - [KairosJet](https://www.kairosjet.com/)
  -  [Everdian](https://www.everdian.com/)
 
- ### [Puna](https://puna.studio)
+ ### [Track360](https://www.track360.io/)
  -  [Track360](https://www.track360.io/)
 <!--
 **sebafernandes/sebafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
